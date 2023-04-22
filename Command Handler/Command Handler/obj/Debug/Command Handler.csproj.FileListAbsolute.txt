@@ -1,0 +1,7 @@
+C:\Users\Riley\source\repos\Command Handler\Command Handler\bin\Debug\Command Handler.exe.config
+C:\Users\Riley\source\repos\Command Handler\Command Handler\bin\Debug\Command Handler.exe
+C:\Users\Riley\source\repos\Command Handler\Command Handler\bin\Debug\Command Handler.pdb
+C:\Users\Riley\source\repos\Command Handler\Command Handler\obj\Debug\Command Handler.csprojAssemblyReference.cache
+C:\Users\Riley\source\repos\Command Handler\Command Handler\obj\Debug\Command Handler.csproj.CoreCompileInputs.cache
+C:\Users\Riley\source\repos\Command Handler\Command Handler\obj\Debug\Command Handler.exe
+C:\Users\Riley\source\repos\Command Handler\Command Handler\obj\Debug\Command Handler.pdb
